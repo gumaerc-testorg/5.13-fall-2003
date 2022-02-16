@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bafc22aa-4d79-008a-f6e2-55e217f01284
 ---
@@ -28,7 +30,7 @@ Wade, L. G. _Organic Chemistry_. 5th ed. New Jersey: Prentice Hall/Pearson Educa
 Molecular Models
 ----------------
 
-Several units in 5.13 will emphasize many stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the Darling [Molecular Visions](http://www.darlingmodels.com/)TM Molecular Model Kit. Note that you will be permitted to bring model sets to the hour exams and the final.
+Several units in 5.13 will emphasize many stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the Darling [Molecular Visions](http://www.darlingmodels.com/){{< sup "TM" >}} Molecular Model Kit. Note that you will be permitted to bring model sets to the hour exams and the final.
 
 Problem Sets
 ------------

@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on pericyclic reactions, electrocyclic processes, Diels-Alder
   and other cycloaddition reactions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-13-organic-chemistry-ii-fall-2003/1e891b9e3def0dbed48105ab7e9dd6f0_lec14_handout.pdf
+file: /media/courses/5-13-organic-chemistry-ii-fall-2003/1e891b9e3def0dbed48105ab7e9dd6f0_lec14_handout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14_handout.pdf
 uid: 1e891b9e-3def-0dbe-d481-05ab7e9dd6f0

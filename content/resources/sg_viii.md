@@ -3,8 +3,13 @@ content_type: resource
 description: Outline and Study Guide for Unit VIII of the course. Topics include free
   radicals, generation of radicals, termination reactions, propagation reactions,
   and chain reactions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-13-organic-chemistry-ii-fall-2003/3d0f7d95c25cee8883e47c8e6139f61d_sg_viii.pdf
+file: /media/courses/5-13-organic-chemistry-ii-fall-2003/3d0f7d95c25cee8883e47c8e6139f61d_sg_viii.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sg_viii.pdf
 uid: 3d0f7d95-c25c-ee88-83e4-7c8e6139f61d

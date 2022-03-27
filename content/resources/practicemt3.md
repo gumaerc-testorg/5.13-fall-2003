@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b8231c67-e467-9c32-f822-dddada4c3f69
 resourcetype: Document
 title: practicemt3.pdf
 uid: 855801d9-43a9-25fa-bb74-16926f177e14

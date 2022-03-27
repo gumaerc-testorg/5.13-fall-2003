@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f2e379c0-2b3a-16c3-0284-59b9e0a7f88b
 resourcetype: Document
 title: radical_prob_key.pdf
 uid: ae0c3924-e492-d7c5-e53d-8cf1f112af69

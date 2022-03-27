@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b8231c67-e467-9c32-f822-dddada4c3f69
 resourcetype: Document
 title: MT3.pdf
 uid: 2dbe457b-1f40-ebde-6332-9b84b9f2b15d

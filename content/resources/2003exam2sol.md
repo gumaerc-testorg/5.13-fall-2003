@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b8231c67-e467-9c32-f822-dddada4c3f69
 resourcetype: Document
 title: 2003exam2sol.pdf
 uid: 657336ce-d047-6c88-9985-c524a2c5b556

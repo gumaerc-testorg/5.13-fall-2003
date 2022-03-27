@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 46a13a3c-09cb-4738-5db9-9d45358bf255
 resourcetype: Document
 title: prob_sol_ses_key.pdf
 uid: 0982868d-4a45-43dd-5b3a-48e7db1e7bee

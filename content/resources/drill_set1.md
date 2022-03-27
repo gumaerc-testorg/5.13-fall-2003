@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 514cfb06-c616-0896-7c11-184461f6150d
 resourcetype: Document
 title: drill_set1.pdf
 uid: b8f2e73b-e31b-e0be-6588-fd89a71509c9

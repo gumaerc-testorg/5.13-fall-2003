@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b8231c67-e467-9c32-f822-dddada4c3f69
 resourcetype: Document
 title: mt3_key.pdf
 uid: 91df1a58-fae2-dc92-3a9a-3db2c78e1f52

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-13-organic-chemistry-ii-fall-2003/f0f4b079473854e64d9aed8c3b724d38_practice_final.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/f0f4b079473854e64d9aed8c3b724d38_practice_final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

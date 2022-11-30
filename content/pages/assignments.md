@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assigned problem sets for the course along
+  with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,16 +27,16 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/problemset1))
+Problem Set 1 ({{% resource_link 16712afa-2436-8e83-40cc-0318fb23c996 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/problemset1sol))
+({{% resource_link 923c6a2d-36c5-5a8c-f939-2be517972ad7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/problemset2))
+Problem Set 2 ({{% resource_link ad92ab2a-a186-dd6b-e84c-a9fd5d2c40ed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -43,55 +45,55 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/problemset2))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/problemset3))
+Problem Set 3 ({{% resource_link 7cba66a5-98cb-5289-adcb-91d26e17c9ea "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/problemset3sol))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps4_key))
+({{% resource_link 87d96d72-95f8-5a47-11ff-feb712f89aa5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 4 ({{% resource_link 73debf23-ece2-5de4-c5c8-d42640499885 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps5_key))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps6_key1))
+({{% resource_link 7eab1450-3694-066d-c13b-9facfc377794 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 7 (optional) ([PDF]({{< baseurl >}}/resources/ps7_optional))
+Problem Set 5 ({{% resource_link 2d7535ca-17d2-fef4-3581-7afb45d561c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps7_optional_key))
+({{% resource_link 5e56df7b-6e29-66c4-e67e-e0fb3903e599 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8 (optional) ([PDF]({{< baseurl >}}/resources/radical_problems))
+Problem Set 6 ({{% resource_link 5d72bb94-e975-3d92-c262-5396b7894493 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/radical_prob_key))
+({{% resource_link ad1c6e5e-f093-4659-ddd2-c85737074be8 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 7 (optional) ({{% resource_link 8a833bbc-600a-aa26-420b-ff90f9c4f4c7 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 6b80bf3c-ebb8-74c9-93b0-133845d976e1 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 8 (optional) ({{% resource_link b74995cc-742e-8700-acad-45f9f951b6f9 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link ae0c3924-e492-d7c5-e53d-8cf1f112af69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

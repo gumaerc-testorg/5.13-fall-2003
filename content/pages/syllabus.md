@@ -14,11 +14,15 @@ x<sub>2</sub>
 
  
 
-<sub>2</sub>x
+​<sub>2</sub>x
 
  
 
 {{% resource_link "5e56df7b-6e29-66c4-e67e-e0fb3903e599" "testing a link<sub>with subscript</sub>" %}}
+
+## Superscript
+
+​<sup>at</sup> the beginning
 
  
 

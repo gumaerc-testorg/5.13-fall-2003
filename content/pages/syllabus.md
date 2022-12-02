@@ -10,21 +10,7 @@ uid: bafc22aa-4d79-008a-f6e2-55e217f01284
 ---
 ## Subscript test
 
-x<sub>2</sub>
-
- 
-
-​<sub>2</sub>x
-
- 
-
-{{% resource_link "5e56df7b-6e29-66c4-e67e-e0fb3903e599" "testing a link<sub>with subscript</sub>" %}}
-
-## Superscript
-
-​<sup>at</sup> the beginning
-
- 
+I removed it all
 
 ## Course Meeting Times
 

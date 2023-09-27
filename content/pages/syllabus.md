@@ -2,12 +2,12 @@
 content_type: page
 description: The syllabus section provides a course overview and information on course
   meeting times, textbooks, problem sets, exams, and grading.
-draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: bafc22aa-4d79-008a-f6e2-55e217f01284
 ---
+
 Course Meeting Times
 --------------------
 

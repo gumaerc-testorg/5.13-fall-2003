@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation problems and solutions prepared by Forrest Arp.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/78928b4a9f00158e4ac30052d2ec009e_drill_set4_sol.pdf
+file_size: 87821
 file_type: application/pdf
 learning_resource_types:
 - Recitations

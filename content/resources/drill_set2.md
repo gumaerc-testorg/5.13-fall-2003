@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation problems prepared by Neal Mankad.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/8723592fd2d25b387e3ea6b369ba97f7_drill_set2.pdf
+file_size: 109970
 file_type: application/pdf
 learning_resource_types:
 - Recitations

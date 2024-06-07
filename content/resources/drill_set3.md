@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation problems.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/72ab169c0e1782286a8cea90e3ecc785_drill_set3.pdf
+file_size: 25525
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on nuclear magnetic resonance (NMR) spectroscopy and connectivity
   (1H NMR).
 file: /courses/5-13-organic-chemistry-ii-fall-2003/0f2a84ef3036ece17dcdc65922785f5f_lec5_handout.pdf
+file_size: 55005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

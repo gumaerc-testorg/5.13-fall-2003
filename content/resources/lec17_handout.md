@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on pericyclic reactions and sigmatropic reactions.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/9fbaf8c988e7def90831f184444b294b_lec17_handout.pdf
+file_size: 46385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

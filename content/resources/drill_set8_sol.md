@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation session problems and solutions prepared by Sunghee Son.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/29b9af3ddcb120e672d342bda4ae6bed_drill_set8_sol.pdf
+file_size: 199100
 file_type: application/pdf
 learning_resource_types:
 - Recitations

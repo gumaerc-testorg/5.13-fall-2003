@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to recitation problems.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/978774a7c743979a8fc01f2d314dd85a_drill_set5_sol.pdf
+file_size: 32822
 file_type: application/pdf
 learning_resource_types:
 - Recitations

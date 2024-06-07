@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to an exam on organic chemistry.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/91df1a58fae2dc923a9a3db2c78e1f52_mt3_key.pdf
+file_size: 188716
 file_type: application/pdf
 learning_resource_types:
 - Exams

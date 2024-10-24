@@ -2,7 +2,7 @@
 content_type: resource
 description: Outline and study Guide for Unit VI of the course. Topics include Enols,
   Enolates, and spongistatin 2.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/9e86411154d7fd2d937f7176a2391fca_sg_vi.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/9e86411154d7fd2d937f7176a2391fca_sg_vi.pdf
 file_size: 97503
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation session answer key.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/daf264cdceeee0a8090700b8eee0b56e_drill_set7_sol.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/daf264cdceeee0a8090700b8eee0b56e_drill_set7_sol.pdf
 file_size: 99165
 file_type: application/pdf
 learning_resource_types:

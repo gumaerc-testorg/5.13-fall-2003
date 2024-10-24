@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation session problems prepared by Forrest Arp.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/70ce96ab0f4ca7e5afba6694197ea889_drill_set6.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/70ce96ab0f4ca7e5afba6694197ea889_drill_set6.pdf
 file_size: 45963
 file_type: application/pdf
 learning_resource_types:

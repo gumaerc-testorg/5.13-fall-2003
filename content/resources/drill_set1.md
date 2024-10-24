@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation problems and review on organic structure elucidation, prepared
   by Brandon Conley.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/b8f2e73be31be0be6588fd89a71509c9_drill_set1.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/b8f2e73be31be0be6588fd89a71509c9_drill_set1.pdf
 file_size: 522629
 file_type: application/pdf
 learning_resource_types:

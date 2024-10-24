@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation problems and solutions prepared by Ryan Altman.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/01ef984c01c93cb874a2cec1b926ec12_drill_set3_sol.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/01ef984c01c93cb874a2cec1b926ec12_drill_set3_sol.pdf
 file_size: 48873
 file_type: application/pdf
 learning_resource_types:

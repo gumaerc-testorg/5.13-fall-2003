@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation session problems.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/95965d62222945001fcecf6faa3defcd_drill_set7.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/95965d62222945001fcecf6faa3defcd_drill_set7.pdf
 file_size: 96241
 file_type: application/pdf
 learning_resource_types:

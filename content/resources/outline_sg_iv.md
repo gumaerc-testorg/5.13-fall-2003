@@ -2,7 +2,7 @@
 content_type: resource
 description: Outline and study guide for Unit IV of the course. Topics include amines
   and quinine.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/613af83067d48651937afafcfda1a20b_outline_sg_iv.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/613af83067d48651937afafcfda1a20b_outline_sg_iv.pdf
 file_size: 53910
 file_type: application/pdf
 learning_resource_types:

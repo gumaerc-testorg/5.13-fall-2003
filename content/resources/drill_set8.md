@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation session problems prepared by Sunghee Son.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/995d6526d5bd412efa8a0d1efd3896ab_drill_set8.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/995d6526d5bd412efa8a0d1efd3896ab_drill_set8.pdf
 file_size: 118874
 file_type: application/pdf
 learning_resource_types:

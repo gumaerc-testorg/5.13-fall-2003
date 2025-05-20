@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on molecular orbital theory and pericyclic reactions.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/7cba66a598cb5289adcb91d26e17c9ea_problemset3.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/7cba66a598cb5289adcb91d26e17c9ea_problemset3.pdf
 file_size: 62395
 file_type: application/pdf
 learning_resource_types:

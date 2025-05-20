@@ -2,7 +2,7 @@
 content_type: resource
 description: Outline and study guide for Unit V of the course. Topics include carboxylic
   acids and derivatives, and penicillin.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/ca016d97ac06ccf746484dc89c790340_outline_sg_v.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/ca016d97ac06ccf746484dc89c790340_outline_sg_v.pdf
 file_size: 90712
 file_type: application/pdf
 learning_resource_types:

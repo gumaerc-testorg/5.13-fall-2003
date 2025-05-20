@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/f0f4b079473854e64d9aed8c3b724d38_practice_final.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/f0f4b079473854e64d9aed8c3b724d38_practice_final.pdf
 file_size: 174952
 file_type: application/pdf
 learning_resource_types:

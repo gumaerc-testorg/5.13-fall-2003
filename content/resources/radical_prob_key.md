@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an optional problem set on radicals.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/ae0c3924e492d7c5e53d8cf1f112af69_radical_prob_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/ae0c3924e492d7c5e53d8cf1f112af69_radical_prob_key.pdf
 file_size: 111041
 file_type: application/pdf
 learning_resource_types:

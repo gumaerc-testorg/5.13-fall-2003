@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Optional problem set on radicals.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/b74995cc742e8700acad45f9f951b6f9_radical_problems.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/b74995cc742e8700acad45f9f951b6f9_radical_problems.pdf
 file_size: 70598
 file_type: application/pdf
 learning_resource_types:

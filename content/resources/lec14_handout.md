@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on pericyclic reactions, electrocyclic processes, Diels-Alder
   and other cycloaddition reactions.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/1e891b9e3def0dbed48105ab7e9dd6f0_lec14_handout.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/1e891b9e3def0dbed48105ab7e9dd6f0_lec14_handout.pdf
 file_size: 76521
 file_type: application/pdf
 learning_resource_types:

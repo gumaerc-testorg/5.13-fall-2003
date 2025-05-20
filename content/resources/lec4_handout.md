@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on infrared spectroscopy, MS fragmentation patterns, 13C
   NMR (symmetry), and connectivity (13C NMR).
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/32bb4ece2a16b9f8e17d195784d1932f_lec4_handout.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/32bb4ece2a16b9f8e17d195784d1932f_lec4_handout.pdf
 file_size: 63625
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the carbocations problem solving exercise.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/0982868d4a4543dd5b3a48e7db1e7bee_prob_sol_ses_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/0982868d4a4543dd5b3a48e7db1e7bee_prob_sol_ses_key.pdf
 file_size: 109714
 file_type: application/pdf
 learning_resource_types:

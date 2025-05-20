@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on inversion barriers, transformations, syntheses,
   and products of reactions.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/7eab14503694066dc13b9facfc377794_ps4_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/7eab14503694066dc13b9facfc377794_ps4_key.pdf
 file_size: 118913
 file_type: application/pdf
 learning_resource_types:

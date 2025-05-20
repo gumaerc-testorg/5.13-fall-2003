@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to practice exam on organic chemistry.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/be45df663116a6de366b30c5516e915b_practicemt3_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/be45df663116a6de366b30c5516e915b_practicemt3_key.pdf
 file_size: 189949
 file_type: application/pdf
 learning_resource_types:

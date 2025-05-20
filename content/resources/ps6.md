@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on mechanisms for transformations, and selective reactions.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/5d72bb94e9753d92c2625396b7894493_ps6.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2003/5d72bb94e9753d92c2625396b7894493_ps6.pdf
 file_size: 84342
 file_type: application/pdf
 learning_resource_types:

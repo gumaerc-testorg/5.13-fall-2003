@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment and Study Guide for Unit I of the course. Topics include methods
   for the elucidation of the structure of organic compounds.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/c6fe40cdadfb1733da5045528cf44e9f_unit1_study_gd.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/c6fe40cdadfb1733da5045528cf44e9f_unit1_study_gd.pdf
 file_size: 52887
 file_type: application/pdf
 learning_resource_types:

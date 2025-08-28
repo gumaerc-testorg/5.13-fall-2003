@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on organic structure determination, infrared spectroscopy,
   and functional groups.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/848c0ebaf1e2725f90000ea96ab54466_lec2_handout.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/848c0ebaf1e2725f90000ea96ab54466_lec2_handout.pdf
 file_size: 29007
 file_type: application/pdf
 learning_resource_types:

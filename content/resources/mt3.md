@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on organic chemistry.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/2dbe457b1f40ebde63329b84b9f2b15d_MT3.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/2dbe457b1f40ebde63329b84b9f2b15d_MT3.pdf
 file_size: 171084
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an optional problem set on mechanisms for transformations.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/6b80bf3cebb874c993b0133845d976e1_ps7_optional_key.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/6b80bf3cebb874c993b0133845d976e1_ps7_optional_key.pdf
 file_size: 198649
 file_type: application/pdf
 learning_resource_types:

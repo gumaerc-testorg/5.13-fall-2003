@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment and Study Guide for Unit II of the course. Topics include
   the chemistry of ethers, epoxides, and sulfides.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/735b4270bb6c50aa706c2b018a6a3955_unit2_study_gd.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/735b4270bb6c50aa706c2b018a6a3955_unit2_study_gd.pdf
 file_size: 37918
 file_type: application/pdf
 learning_resource_types:

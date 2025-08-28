@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem solving exercise on carbocations.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/98178416a1f8cadbe00e55cdec64e26d_prob_solving_ses.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/98178416a1f8cadbe00e55cdec64e26d_prob_solving_ses.pdf
 file_size: 72341
 file_type: application/pdf
 learning_resource_types:

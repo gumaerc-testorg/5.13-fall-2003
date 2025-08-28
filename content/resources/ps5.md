@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on the Cope elimination, synthesis of molecules, IR stretching
   frequencies, labeling experiments, and decomposition of triphosgene to form three
   equivalents of phosgene.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/2d7535ca17d2fef435817afb45d561c5_ps5.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/2d7535ca17d2fef435817afb45d561c5_ps5.pdf
 file_size: 75423
 file_type: application/pdf
 learning_resource_types:

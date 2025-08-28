@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on 1H NMR spectroscopy, spin-spin coupling, and connectivity.
-file: /courses/5-13-organic-chemistry-ii-fall-2003/11f5edb7aa83b6165daac8179b4fd685_lec6_handout.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2003/11f5edb7aa83b6165daac8179b4fd685_lec6_handout.pdf
 file_size: 110506
 file_type: application/pdf
 learning_resource_types:
